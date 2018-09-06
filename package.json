@@ -1,0 +1,25 @@
+{
+  "name": "CLI-Tic-Tac-Toe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start-game": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dwgl80/CLI-Tic-Tac-Toe.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dwgl80/CLI-Tic-Tac-Toe/issues"
+  },
+  "homepage": "https://github.com/dwgl80/CLI-Tic-Tac-Toe#readme",
+  "dependencies": {
+    "commander": "^2.17.1",
+    "inquirer": "^6.2.0"
+  }
+}
